@@ -79,5 +79,5 @@ def retrieve_docs(question,vector_store_from_client):
 
 # delete_docs(vector_store_from_client)
 
-show_all_docs()
+# show_all_docs()
 
